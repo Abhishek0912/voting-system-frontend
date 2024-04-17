@@ -11,7 +11,7 @@ Npm Version - 10.5.0
 
 ## Installation
 
-1. Clone the repository to your local machine:  ``` git clone https://github.com/Abhishek0912/voting-system-backend ```
+1. Clone the repository to your local machine:  ``` git clone https://github.com/Abhishek0912/voting-system-frontend ```
 
 2. Navigate into the project directory: ``` cd voting-system-frontend ```
 
