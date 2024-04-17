@@ -2,7 +2,7 @@
 
 This project is a React.js frontend application designed to Voting System.
 
-# Node Version 
+## Node Version 
 
 Latest Node Version should be installed in your local machine
 
