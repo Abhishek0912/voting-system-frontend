@@ -15,11 +15,11 @@ Npm Version - 10.5.0
 
 2. Navigate into the project directory: ``` cd voting-system-frontend ```
 
-3. Install dependencies using npm:  ```bash npm install ```
+3. Install dependencies using npm:  ```npm install ```
 
 ## Usage
 
-To start the development server and view the application in your browser, run: ```bash npm start ```
+To start the development server and view the application in your browser, run: ```npm start ```
 
 ## For Admin Use: 
 
